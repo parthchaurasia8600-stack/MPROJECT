@@ -152,6 +152,10 @@ input{
     grid-column-end: 5;
 }
 
+footer{
+    padding-bottom: 50px;
+}
+
 @media (max-width: 600px) {
 
     body {
@@ -162,13 +166,12 @@ input{
 
     .container {
         width: min(92%, 400px);
-        height: 400px auto;
+        height: 520px ;
 
         padding: 18px;
         margin: 20px auto;
 
         border-radius: 20px;
-        padding-bottom: 10px;
     }
 
     .btn-container {
