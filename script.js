@@ -38,7 +38,7 @@ function value(val){
 }
 
 function clearData(){
-    input.value="0"
+    input.value=""
 }
 
 function calculate(){
