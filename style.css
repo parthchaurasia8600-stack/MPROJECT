@@ -162,13 +162,13 @@ input{
 
     .container {
         width: min(92%, 400px);
-        min-height: auto;
-        height: auto;
+        height: 400px auto;
 
         padding: 18px;
         margin: 20px auto;
 
         border-radius: 20px;
+        margin-bottom: 10px;
     }
 
     .btn-container {
